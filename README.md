@@ -5,4 +5,4 @@ The sorting types are
  iii) Selectionsort
  iv) Insertionsort
  v) MergeSort
- There alse printarray method to print the array that we created. This Method is used to Printarray.
+ There also printarray method to print the array that we created. This Method is used to Printarray.
